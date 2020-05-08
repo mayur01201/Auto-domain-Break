@@ -1,0 +1,1 @@
+python auto-domain-break input_file_name.txt domain_name
